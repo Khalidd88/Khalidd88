@@ -29,7 +29,7 @@ I'm a passionate **Web Developer** and **Cyber Security Enthusiast** from Bekasi
 
 ### **Programming Languages**
 
-- 🔹 Python (AI)
+- 🔹 Python (Decrypt & Find Flag CTF)
 - 🔹 Java (OOP)
 - 🔹 C++ (Algorithm)
 
@@ -39,16 +39,14 @@ I'm a passionate **Web Developer** and **Cyber Security Enthusiast** from Bekasi
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khalidd88&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalidd88&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khalidd88&show_icons=true&theme=dark)
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- ✅ **Completed 100+ Projects** in Web Development
 - ✅ **Winner of Local Web Development Competition** (2024)
-- ✅ **Certified Ethical Hacker (CEH)** - Learning in progress
-- ✅ **Google Cloud Associate Certification** - In progress
-- ✅ **Top 5 Finalist in National Coding Competition (Python & C++)**
+- ✅ **Certified Network Security Practitioner (CNSP) ** - Learning in progress
 
 ---
 
@@ -66,7 +64,7 @@ A cutting-edge web platform integrating AI-powered insights and real-time analyt
 A conversational AI chatbot built with NLP techniques and machine learning.
 
 - **Tech Stack:** Python, TensorFlow, Flask, React.js
-- 🏆 **Awarded Best AI Project 2024**
+- 🏆 **Awarded Rank 3 CTF Bekasi City**
 
 ---
 
@@ -79,9 +77,9 @@ class Khalid:
         self.ask_me_about = ["Front End & Back End Web Development", "Mobile Development", "Cyber Security"]
         self.technologies = {
             "frontEnd": ["ReactJS", "VueJS"],
-            "backEnd": ["Flask"],
+            "backEnd": ["ExpressJS", "Flask", "Django"],
             "dataBase": ["MongoDB", "MySQL"],
-            "mobileDevelopment": ["Java"],
+            "mobileDevelopment": ["Java", "Flutter", "React-Native"],
             "cyberSecurity": ["Penetration Testing", "CTF Challenges", "Web Security"]
         }
     
