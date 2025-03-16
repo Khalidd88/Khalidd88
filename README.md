@@ -11,14 +11,13 @@ I'm a passionate **Web Developer** and **Cyber Security Enthusiast** from Bekasi
 - 🔹 HTML, CSS, JavaScript (ES6+)
 - 🔹 React.js (Hooks, Context API)
 - 🔹 Tailwind CSS, Bootstrap
-- 🔹 Next.js
 - 🔹 AOS (Animate On Scroll)
 
 ### **Backend**
 
-- 🔹 Node.js (Express.js)
+- 🔹 Node.js
 - 🔹 PHP (Laravel, CodeIgniter)
-- 🔹 Flask, Django
+- 🔹 Flask
 - 🔹 Firebase (Auth & Firestore)
 - 🔹 MySQL, MongoDB
 
@@ -30,9 +29,9 @@ I'm a passionate **Web Developer** and **Cyber Security Enthusiast** from Bekasi
 
 ### **Programming Languages**
 
-- 🔹 Python (AI & Data Science, Web Scraping)
-- 🔹 Java (OOP, Android Development)
-- 🔹 C++ (Algorithm & Competitive Programming)
+- 🔹 Python (AI)
+- 🔹 Java (OOP)
+- 🔹 C++ (Algorithm)
 
 ---
 
@@ -80,9 +79,9 @@ class Khalid:
         self.ask_me_about = ["Front End & Back End Web Development", "Mobile Development", "Cyber Security"]
         self.technologies = {
             "frontEnd": ["ReactJS", "VueJS"],
-            "backEnd": ["ExpressJS", "Flask", "Django"],
+            "backEnd": ["Flask"],
             "dataBase": ["MongoDB", "MySQL"],
-            "mobileDevelopment": ["Java", "Flutter", "React-Native"],
+            "mobileDevelopment": ["Java"],
             "cyberSecurity": ["Penetration Testing", "CTF Challenges", "Web Security"]
         }
     
@@ -105,3 +104,4 @@ print(me.introduce())
 ---
 
 💡 *"Code with passion, secure with knowledge."* 🚀💻
+
