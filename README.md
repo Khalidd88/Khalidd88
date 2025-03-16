@@ -1,61 +1,98 @@
-💻 Khalid Luhur Pambudi
+# Hi there! 👋 I'm Khalid Luhur Pambudi
 
+I'm a passionate **Web Developer** and **Cyber Security Enthusiast** from Bekasi, Indonesia. Currently, I'm a student at a Vocational High School, actively working on various projects related to **API integration, React, PHP, VB.NET, HTML/CSS, JavaScript, and Python**. My goal is to constantly learn, improve my skills, and contribute to innovative projects in web development and cybersecurity.
 
+---
 
-👋 Hi there! Welcome to my GitHub profile! 🚀
+## 🚀 Tech Stack
 
-I'm Khalid Luhur Pambudi, a passionate Web Developer and Cyber Security enthusiast from Indonesia. I have been actively involved in web technologies and software development for the past two years, working on various projects utilizing modern frameworks and tools.
+### **Frontend**
 
-I love exploring new technologies and building projects that solve real-world problems. My focus is on Full-Stack Development, API Integration, and Web Security.
+- 🔹 HTML, CSS, JavaScript (ES6+)
+- 🔹 React.js (Hooks, Context API)
+- 🔹 Tailwind CSS, Bootstrap
+- 🔹 Next.js
+- 🔹 AOS (Animate On Scroll)
 
-🔥 Tech Stack
+### **Backend**
 
-💻 Languages & Frameworks
+- 🔹 Node.js (Express.js)
+- 🔹 PHP (Laravel, CodeIgniter)
+- 🔹 Firebase (Auth & Firestore)
+- 🔹 MySQL & MongoDB
 
-Frontend:
+### **Cyber Security**
 
-HTML5, CSS3, JavaScript (ES6+)
+- 🔹 Web Security & Penetration Testing
+- 🔹 Ethical Hacking (CTF Challenges)
+- 🔹 OWASP Top 10
 
-React.js, Next.js
+---
 
-Tailwind CSS, Bootstrap
+## 📊 GitHub Stats & Activity
 
-Backend:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khalidd88&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalidd88&layout=compact&theme=dark&hide_border=true)
 
-Node.js, Express.js, PHP
+---
 
-Python (Flask & Django)
+## 🏆 Achievements & Certifications
 
-VB.NET
+- ✅ **Completed 100+ Projects** in Web Development
+- ✅ **Winner of Local Web Development Competition** (2024)
+- ✅ **Certified Ethical Hacker (CEH)** - Learning in progress
+- ✅ **Google Cloud Associate Certification** - In progress
 
-Database:
+---
 
-MongoDB, MySQL, PostgreSQL
+## 🔥 Featured Projects
 
-Other Tools:
+### [PetroVision: A Modern Web Platform for the Petroleum Industry](https://github.com/Khalidd88/PetroVision)
 
-Git & GitHub
+A cutting-edge web platform integrating AI-powered insights and real-time analytics for the petroleum industry.
 
-RESTful APIs & GraphQL
+- **Tech Stack:** React, Tailwind, Firebase, Express.js, MongoDB
+- 🌍 **Live Demo:** [PetroVision](https://your-demo-link.com)
 
-Docker & Kubernetes
+### [AI Chatbot with NLP](https://github.com/Khalidd88/AI-Chatbot)
 
-📊 GitHub Stats
+A conversational AI chatbot built with NLP techniques and machine learning.
 
+- **Tech Stack:** Python, TensorFlow, Flask, React.js
+- 🏆 **Awarded Best AI Project 2024**
 
+---
 
+## 📂 About Me (Professional Format)
 
+```python
+class Jahirrrr:
+    def __init__(self):
+        self.pronouns = ["He", "Him"]
+        self.ask_me_about = ["Front End & Back End Web Development", "Mobile Development"]
+        self.technologies = {
+            "frontEnd": ["ReactJS", "VueJS"],
+            "backEnd": ["ExpressJS", "Flask", "Django"],
+            "dataBase": ["MongoDB"],
+            "mobileDevelopment": ["Java", "Flutter", "React-Native"]
+        }
+    
+    def introduce(self):
+        return f"Hi! I specialize in {', '.join(self.ask_me_about)} using technologies like {', '.join(self.technologies['frontEnd'] + self.technologies['backEnd'])}."
 
-🚀 Projects & Contributions
+me = Jahirrrr()
+print(me.introduce())
+```
 
-🔹 PetroVision - Modern Web Platform for Petroleum Industry
+---
 
-🔹 More projects coming soon! Stay tuned! 😊
+## 📫 Connect With Me
 
-🌍 Let's Connect!
+- 📧 Email: [khalidluhurp@gmail.com](mailto:khalidluhurp@gmail.com)
+- 🌐 Instagram: [@oceannn.19](https://www.instagram.com/oceannn.19)
+- 🔗 LinkedIn: [Khalid Luhur Pambudi](https://www.linkedin.com/in/khalid-luhur-pambudi)
+- 🏗️ GitHub: [Khalidd88](https://github.com/Khalidd88)
 
-💼 LinkedIn: LinkedIn Profile📷 Instagram: @oceannn.19📧 Email: khalidluhurp@gmail.com
+---
 
-📌 "Passionate about technology, innovation, and continuous learning." 💡
-
-🛠️ About Me
+💡 *"Code with passion, secure with knowledge."* 🚀💻
