@@ -1,32 +1,61 @@
-# 👋 Hi, I'm @Khalidd
+💻 Khalid Luhur Pambudi
 
-I am currently a student at a Vocational High School in Bekasi, Indonesia. I am passionate about both **Web Development** and **Cyber Security**. Over the past two years, I have actively worked on several projects involving technologies such as API integration, React, PHP, VB.NET, HTML/CSS, JavaScript, and Python. I am always eager to expand my skill set and stay up-to-date with the latest trends in web development and cybersecurity. My goal is to continue refining my skills and pursue a career in these dynamic and ever-evolving fields.
 
-## 🌱 Programming Skills:
-- HTML/CSS
-- JavaScript
-- PHP
-- VB.NET
-- Python
 
-## 📚 Tech Stack:
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** PHP, Python, VB.NET
-- **Other Technologies:** API Integration
+👋 Hi there! Welcome to my GitHub profile! 🚀
 
-## 🎯 Future Goals:
-- Continually improve my web development and cybersecurity skills.
-- Stay updated with the latest technological trends and advancements.
+I'm Khalid Luhur Pambudi, a passionate Web Developer and Cyber Security enthusiast from Indonesia. I have been actively involved in web technologies and software development for the past two years, working on various projects utilizing modern frameworks and tools.
 
-## 📫 Connect with me:
-- [GitHub](https://github.com/Khalidd88)
-- [LinkedIn](insert-your-link-here)
+I love exploring new technologies and building projects that solve real-world problems. My focus is on Full-Stack Development, API Integration, and Web Security.
 
-## 🔧 My Projects:
-- Project 1: Brief description
-- Project 2: Brief description
-- Project 3: Brief description
+🔥 Tech Stack
 
----
+💻 Languages & Frameworks
 
-🌟 **Thank you for visiting my profile!**
+Frontend:
+
+HTML5, CSS3, JavaScript (ES6+)
+
+React.js, Next.js
+
+Tailwind CSS, Bootstrap
+
+Backend:
+
+Node.js, Express.js, PHP
+
+Python (Flask & Django)
+
+VB.NET
+
+Database:
+
+MongoDB, MySQL, PostgreSQL
+
+Other Tools:
+
+Git & GitHub
+
+RESTful APIs & GraphQL
+
+Docker & Kubernetes
+
+📊 GitHub Stats
+
+
+
+
+
+🚀 Projects & Contributions
+
+🔹 PetroVision - Modern Web Platform for Petroleum Industry
+
+🔹 More projects coming soon! Stay tuned! 😊
+
+🌍 Let's Connect!
+
+💼 LinkedIn: LinkedIn Profile📷 Instagram: @oceannn.19📧 Email: khalidluhurp@gmail.com
+
+📌 "Passionate about technology, innovation, and continuous learning." 💡
+
+🛠️ About Me
