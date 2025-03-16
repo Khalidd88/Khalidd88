@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Khalid Luhur Pambudi
 
-I'm a passionate **Web Developer** and **Cyber Security Enthusiast** from Bekasi, Indonesia. Currently, I'm a student at a Vocational High School, actively working on various projects related to **API integration, React, PHP, VB.NET, HTML/CSS, JavaScript, and Python**. My goal is to constantly learn, improve my skills, and contribute to innovative projects in web development and cybersecurity.
+I'm a passionate **Web Developer** and **Cyber Security Enthusiast** from Bekasi, Indonesia. Currently, I'm a student at a Vocational High School, actively working on various projects related to **API integration, React, PHP, VB.NET, HTML/CSS, JavaScript, Python, Java, and C++**. My goal is to constantly learn, improve my skills, and contribute to innovative projects in web development and cybersecurity.
 
 ---
 
@@ -18,14 +18,21 @@ I'm a passionate **Web Developer** and **Cyber Security Enthusiast** from Bekasi
 
 - 🔹 Node.js (Express.js)
 - 🔹 PHP (Laravel, CodeIgniter)
+- 🔹 Flask, Django
 - 🔹 Firebase (Auth & Firestore)
-- 🔹 MySQL & MongoDB
+- 🔹 MySQL, MongoDB
 
 ### **Cyber Security**
 
 - 🔹 Web Security & Penetration Testing
 - 🔹 Ethical Hacking (CTF Challenges)
 - 🔹 OWASP Top 10
+
+### **Programming Languages**
+
+- 🔹 Python (AI & Data Science, Web Scraping)
+- 🔹 Java (OOP, Android Development)
+- 🔹 C++ (Algorithm & Competitive Programming)
 
 ---
 
@@ -42,6 +49,7 @@ I'm a passionate **Web Developer** and **Cyber Security Enthusiast** from Bekasi
 - ✅ **Winner of Local Web Development Competition** (2024)
 - ✅ **Certified Ethical Hacker (CEH)** - Learning in progress
 - ✅ **Google Cloud Associate Certification** - In progress
+- ✅ **Top 5 Finalist in National Coding Competition (Python & C++)**
 
 ---
 
@@ -66,21 +74,22 @@ A conversational AI chatbot built with NLP techniques and machine learning.
 ## 📂 About Me (Professional Format)
 
 ```python
-class Jahirrrr:
+class Khalid:
     def __init__(self):
         self.pronouns = ["He", "Him"]
-        self.ask_me_about = ["Front End & Back End Web Development", "Mobile Development"]
+        self.ask_me_about = ["Front End & Back End Web Development", "Mobile Development", "Cyber Security"]
         self.technologies = {
             "frontEnd": ["ReactJS", "VueJS"],
             "backEnd": ["ExpressJS", "Flask", "Django"],
-            "dataBase": ["MongoDB"],
-            "mobileDevelopment": ["Java", "Flutter", "React-Native"]
+            "dataBase": ["MongoDB", "MySQL"],
+            "mobileDevelopment": ["Java", "Flutter", "React-Native"],
+            "cyberSecurity": ["Penetration Testing", "CTF Challenges", "Web Security"]
         }
     
     def introduce(self):
-        return f"Hi! I specialize in {', '.join(self.ask_me_about)} using technologies like {', '.join(self.technologies['frontEnd'] + self.technologies['backEnd'])}."
+        return f"Hi! I specialize in {', '.join(self.ask_me_about)} using technologies like {', '.join(self.technologies['frontEnd'] + self.technologies['backEnd'] + self.technologies['cyberSecurity'])}."
 
-me = Jahirrrr()
+me = Khalid()
 print(me.introduce())
 ```
 
