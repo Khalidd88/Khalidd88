@@ -1,16 +1,11 @@
-<!-- CYBERPUNK HEADER -->
 <h1 align="center">
   <img src="https://i.ibb.co/HdqFQPT/cyberpunk-header.gif" width="100%" />
   <br/>
   <span style="font-size:35px;">⚡ Khalid Luhur Pambudi — Cyberpunk Full Stack Developer ⚡</span>
 </h1>
-
-<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&duration=2500&pause=600&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cyber+Security+Specialist;Pentester+%2F+CTF+Warrior;AI+%26+Automation+Engineer;Synthwave+Coding+Machine" />
 </p>
-
-<!-- NEON DIVIDER -->
 <img src="https://i.ibb.co/pfJV6Bc/cyber-line.gif" width="100%"/>
 
 ---
