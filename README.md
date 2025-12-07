@@ -1,35 +1,120 @@
-<!-- PARTICLE BACKGROUND + NEON GLITCH TOP -->
-<div align="center">
-  <img src="https://i.imgur.com/EBX9pVb.gif" width="100%"/>
-  
-  <!-- PARTICLE.JS BACKGROUND (GERAK BENERAN) -->
-  <div style="position: relative; overflow: hidden; width: 100%; height: 650px; background: #000;">
-    <img src="https://cdn.jsdelivr.net/gh/harryheman/awesome-readme-template@master/assets/particles.gif" alt="particles" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.5; pointer-events: none;">
-    
-    <!-- NEON HERO -->
-    <div style="position: relative; z-index: 2; padding: 40px;">
-      <img src="https://i.imgur.com/w1aOD89.gif" width="230" style="border: 5px solid #00E8FF; border-radius: 50%; box-shadow: 0 0 40px #00E8FF, 0 0 80px #00E8FF; animation: float 6s ease-in-out infinite, pulse 4s infinite;" />
-      
-      <h1 style="background: linear-gradient(90deg, #00E8FF, #FF00FF, #00FF99, #FF0066); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 5.5em; font-weight: 900; text-shadow: 0 0 60px rgba(0,232,255,0.9); animation: glitch 3s infinite;">
-        🔥 KHALID LUHUR PAMBUDI 🔥
-      </h1>
+<!-- HEADER -->
+<h1 align="center">✨ Khalid Luhur Pambudi — Web Dev & Cyber Security Enthusiast ✨</h1>
 
-      <!-- TYPING SVG GILA GILAN -->
-      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&pause=800&color=00E8FF&background=000000&center=true&vCenter=true&width=1000&height=90&lines=Full+Stack+Developer+%F0%9F%94%A5;Cyber+Security+Enthusiast+%F0%9F%94%B4;CTF+Player+%F0%9F%8F%86;Pentester+In+Training+%F0%9F%9B%A0;API+%26+Automation+Wizard;Hacking+%26+Building+24%2F7;sudo+make+me+legend+%3E_%20" />
+<p align="center">
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=2500&pause=500&color=00E8FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;Pentester+%2F+CTF+Player;API+Architect;Building+Cool+Things+Everyday" />
+</p>
 
-      <!-- SOCIAL BADGES NEON + HOVER EFFECT -->
-      <br><br>
-      <a href="https://instagram.com/khalidd.88"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000&color=FF0088" alt="Instagram"/></a>
-      <a href="https://linkedin.com/in/khalidluhur"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00E8FF" alt="LinkedIn"/></a>
-      <a href="mailto:khalidluhur@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF0066" alt="Email"/></a>
-      <a href="https://tryhackme.com/p/khalidd88"><img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=ff0044" alt="TryHackMe"/></a>
-    </div>
-  </div>
-</div>
+<!-- NEON DIVIDER -->
+<img src="https://i.imgur.com/EBX9pVb.gif" width="100%" />
 
-<img src="https://i.imgur.com/EBX9pVb.gif" width="100%"/>
+---
 
-## 🧬 <span style="color:#00E8FF; text-shadow: 0 0 10px #00E8FF;">WHO THE HELL AM I?</span>
+## 🌌 About Me
 
+🔥 Hi, I'm **Khalid**, a passionate **Full Stack Developer**, **Cyber Security Enthusiast**, and **CTF Player**.  
+🚀 I combine modern UI, scalable backend systems, and strong security fundamentals in every project I build.
+
+### 🎯 My Focus
+- Stunning modern UI (React + Tailwind)
+- Secure backend systems (Node, PHP, Python)
+- Real-world penetration testing & CTFs
+- Automation tools for dev productivity
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 **Frontend**
+- React.js (Hooks, Context API)  
+- Tailwind CSS, Bootstrap  
+- AOS (Animate on Scroll)  
+- Modern UI/UX & Component Architecture  
+
+### 🧩 **Backend**
+- Node.js (Express.js)  
+- PHP (Laravel, CodeIgniter)  
+- Python (Flask)  
+- Firebase (Auth, Firestore)  
+- MySQL, MongoDB  
+
+### 🛡️ **Cyber Security**
+- Web Penetration Testing  
+- OWASP Top 10  
+- Ethical Hacking & CTF  
+- Python Scripts (Decryptor, automation)
+
+### 💻 **Programming Languages**
+- Python  
+- Java (OOP)  
+- C++  
+
+---
+
+## 🔧 **Daily Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,php,laravel,python,java,cpp,mongodb,mysql,firebase,git,github,linux,vscode,figma,postman,cloudflare&perline=9" />
+</p>
+
+---
+
+<!-- ANIMATED LINE -->
+<img src="https://i.imgur.com/EBX9pVb.gif" width="100%" />
+
+## 📌 2025 Goals
+- 🚀 Develop modular SaaS dashboards  
+- 🧠 Build automation tools for security & dev workflows  
+- 🛡️ Improve CTF & pentesting skills  
+- 📚 Complete **CNSP Certification**  
+- 🤖 Create my own AI-powered security tools  
+
+---
+
+## 🏆 Achievements
+- 🥇 Winner — **Local Web Dev Competition 2024**  
+- 🥈 Rank 3 — **Cyber CTF Bekasi City**  
+- 📜 CNSP Certification — *In Progress*  
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 **PetroVision — AI-Powered Petroleum Platform**
+A futuristic web platform with **AI insights**, **modern dashboard UI**, and **real-time analytics**.
+
+🔧 Tech: React, Tailwind, Firebase, Express, MongoDB  
+🔗 Repo: https://github.com/Khalidd88/PetroVision  
+
+---
+
+### 🤖 **AI Chatbot with NLP**
+A conversational AI chatbot using **TensorFlow, Flask, and NLP**.  
+🏆 Awarded in **CTF Bekasi City**.
+
+---
+
+<!-- ANIMATED LINE -->
+<img src="https://i.imgur.com/EBX9pVb.gif" width="100%" />
+
+## 📊 GitHub Stats (NEON MODE)
+
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Khalidd88&theme=neon-palenight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Khalidd88&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalidd88&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Graph — Snake Animation
+<p align="center">
+  <img src="https://github.com/Khalidd88/Khalidd88/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧠 Fun Terminal
 ```bash
-whoami && cat /home/khalid/profile.txt
+$ whoami
+> khalid — full stack developer | cyber security | builder
