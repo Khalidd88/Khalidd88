@@ -1,105 +1,108 @@
-# Hi there! 👋 I'm Khalid Luhur Pambudi
+<h1 align="center">🚀 Khalid Luhur Pambudi — Web Developer & Cyber Security Enthusiast 🔥</h1>
 
-I'm a passionate **Web Developer** and **Cyber Security Enthusiast** from Bekasi, Indonesia. Currently, I'm a student at a Vocational High School, actively working on various projects related to **API integration, React, PHP, VB.NET, HTML/CSS, JavaScript, Python, Java, and C++**. My goal is to constantly learn, improve my skills, and contribute to innovative projects in web development and cybersecurity.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;CTF+Player;API+Integrator;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## 🌌 About Me
+Hi! I'm **Khalid**, a passionate **Web Developer** and **Cyber Security Enthusiast** from Indonesia.  
+Currently studying at a **Vocational High School**, and actively building modern apps, exploring penetration testing, and solving CTF challenges!
 
-### **Frontend**
+I love combining **clean UI**, **solid backend architecture**, and **security principles** in every project.
 
-- 🔹 HTML, CSS, JavaScript (ES6+)
-- 🔹 React.js (Hooks, Context API)
-- 🔹 Tailwind CSS, Bootstrap
-- 🔹 AOS (Animate On Scroll)
+---
 
-### **Backend**
+## 🛠️ Tech Stack & Tools
 
-- 🔹 Node.js
-- 🔹 PHP (Laravel, CodeIgniter)
-- 🔹 Flask
-- 🔹 Firebase (Auth & Firestore)
-- 🔹 MySQL, MongoDB
+### **Frontend Development**
+- HTML, CSS, JavaScript (ES6+)
+- React.js (Hooks, Context API)
+- Tailwind CSS, Bootstrap
+- AOS (Animate on Scroll)
+
+### **Backend Development**
+- Node.js (Express)
+- PHP (Laravel / CodeIgniter)
+- Python (Flask)
+- Firebase (Auth, Firestore)
+- MySQL, MongoDB
 
 ### **Cyber Security**
-
-- 🔹 Web Security & Penetration Testing
-- 🔹 Ethical Hacking (CTF Challenges)
-- 🔹 OWASP Top 10
+- Web Penetration Testing
+- OWASP Top 10
+- Ethical Hacking & CTF Challenges
+- Python Scripting (Decrypting, automation tools)
 
 ### **Programming Languages**
+- Python
+- Java (OOP)
+- C++
 
-- 🔹 Python (Decrypt & Find Flag CTF)
-- 🔹 Java (OOP)
-- 🔹 C++ (Algorithm)
+---
+
+## 🧰 Tools I Use Daily
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,python,java,cpp,php,laravel,mongodb,mysql,firebase,git,linux,vscode,figma,tailwind" />
+</p>
+
+---
+
+## 📌 What I'm Doing in 2025
+- 🚀 Developing modular SaaS dashboards with React + Tailwind  
+- 🔥 Improving API architecture & backend security  
+- 🛡️ Leveling up penetration testing skills  
+- 📚 Preparing for **CNSP Certification**  
+- 🧠 Building automated tools for cybersecurity & web development  
+
+---
+
+## 🏆 Achievements
+- 🥇 Winner — **Local Web Development Competition 2024**  
+- 🥈 Rank 3 — **Cyber CTF Bekasi City**  
+- 📜 Certified Network Security Practitioner (CNSP) — *in progress*  
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 **PetroVision — AI-Powered Petroleum Platform**
+A next-generation industrial web platform integrating **AI insights**, **modern UI**, and **real-time field analytics**.
+
+**Tech Stack:** React, Tailwind, Firebase, Express.js, MongoDB  
+**GitHub:** https://github.com/Khalidd88/PetroVision
+
+---
+
+### 🤖 **AI Chatbot with NLP**
+A conversational AI chatbot using machine learning & NLP techniques.
+
+**Tech Stack:** Python, TensorFlow, Flask, React.js  
+🏆 Achieved **Rank 3 CTF Bekasi**  
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khalidd88&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalidd88&layout=compact&theme=dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khalidd88&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khalidd88&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalidd88&layout=compact&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Khalidd88&show_icons=true&theme=dark" />
+</p>
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- ✅ **Winner of Local Web Development Competition** (2024)
-- ✅ **Certified Network Security Practitioner (CNSP) ** - Learning in progress
-
----
-
-## 🔥 Featured Projects
-
-### [PetroVision: A Modern Web Platform for the Petroleum Industry](https://github.com/Khalidd88/PetroVision)
-
-A cutting-edge web platform integrating AI-powered insights and real-time analytics for the petroleum industry.
-
-- **Tech Stack:** React, Tailwind, Firebase, Express.js, MongoDB
-- 🌍 **Live Demo:** [PetroVision](https://your-demo-link.com)
-
-### [AI Chatbot with NLP](https://github.com/Khalidd88/AI-Chatbot)
-
-A conversational AI chatbot built with NLP techniques and machine learning.
-
-- **Tech Stack:** Python, TensorFlow, Flask, React.js
-- 🏆 **Awarded Rank 3 CTF Bekasi City**
+## 🐍 Contribution Graph — Snake Version
+<p align="center">
+  <img src="https://github.com/Khalidd88/Khalidd88/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 📂 About Me (Professional Format)
-
-```python
-class Khalid:
-    def __init__(self):
-        self.pronouns = ["He", "Him"]
-        self.ask_me_about = ["Front End & Back End Web Development", "Mobile Development", "Cyber Security"]
-        self.technologies = {
-            "frontEnd": ["ReactJS", "VueJS"],
-            "backEnd": ["ExpressJS", "Flask", "Django"],
-            "dataBase": ["MongoDB", "MySQL"],
-            "mobileDevelopment": ["Java", "Flutter", "React-Native"],
-            "cyberSecurity": ["Penetration Testing", "CTF Challenges", "Web Security"]
-        }
-    
-    def introduce(self):
-        return f"Hi! I specialize in {', '.join(self.ask_me_about)} using technologies like {', '.join(self.technologies['frontEnd'] + self.technologies['backEnd'] + self.technologies['cyberSecurity'])}."
-
-me = Khalid()
-print(me.introduce())
-```
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: [khalidluhurp@gmail.com](mailto:khalidluhurp@gmail.com)
-- 🌐 Instagram: [@oceannn.19](https://www.instagram.com/oceannn.19)
-- 🔗 LinkedIn: [Khalid Luhur Pambudi](https://www.linkedin.com/in/khalid-luhur-pambudi)
-- 🏗️ GitHub: [Khalidd88](https://github.com/Khalidd88)
-
----
-
-💡 *"Code with passion, secure with knowledge."* 🚀💻
-
+## 🧠 Fun Terminal
+```bash
+$ whoami
+> khalid — full stack dev | cyber security | learner
