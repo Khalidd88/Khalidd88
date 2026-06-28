@@ -1,85 +1,53 @@
 <h1 align="center">
   <img src="https://i.ibb.co/HdqFQPT/cyberpunk-header.gif" width="100%" />
   <br/>
-  <span style="font-size:35px;">⚡ Khalid Luhur Pambudi — Cyberpunk Full Stack Developer ⚡</span>
+  <span style="font-size:33px;">⚡ Khalid Luhur Pambudi — Autonomous Full-Stack & Security Engineer ⚡</span>
 </h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&duration=2500&pause=600&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cyber+Security+Specialist;Pentester+%2F+CTF+Warrior;AI+%26+Automation+Engineer;Synthwave+Coding+Machine" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=2200&pause=500&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;AI+Ovation+%26+Automation+Architect;Web+Exploitation+%2F+OSINT+Analyst;Hyper-Premium+Digital+Solutions" />
 </p>
+
 <img src="https://i.ibb.co/pfJV6Bc/cyber-line.gif" width="100%"/>
 
 ---
 
-# 🌌 About Me
+# 🌌 Neural Profile
 
-🔥 I'm **Khalid**, a developer forged in the neon streets of the Cyberpunk world.  
-💻 I craft **futuristic UI**, **secure backend systems**, and **powerful automation tools**.  
-⚡ Every line of code = precision + design + security.
+🔥 **Khalid** — A high-performance developer building modern web infrastructure, secure backend systems, and automated pipelines. Operating with an **AI-first** execution model to engineer high-scaling digital ecosystems.
 
-### 🎯 Focus Zones
-- ⚡ Neon-grade UI (React + Tailwind)
-- 🛡️ Secure backend systems
-- 🤖 AI-powered automation
-- 🐉 Pentesting & CTFs
+### 🎯 Core Matrix
+- ⚡ **Frontend Artistry:** Next.js, React, Vite, Tailwind CSS (Hyper-Premium Aesthetics)
+- 🛡️ **Backend & Infrastructure:** Laravel, PHP, Node.js, Secure RESTful APIs
+- 🤖 **Automation Core:** Advanced Workflow Automation (n8n, Custom AI Agents)
+- 🐉 **Cyber Security:** Web Exploitation, OSINT, and CTF Challenges
 
 ---
-
-<img src="https://i.ibb.co/pfJV6Bc/cyber-line.gif" width="100%"/>
 
 # 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,php,laravel,python,java,cpp,mongodb,mysql,firebase,git,github,linux,vscode,figma,postman,cloudflare&theme=dark&perline=10" />
-</p>
-
----
-
-# 🚀 Daily Tools
-<p align="center">
-  <img src="https://i.ibb.co/nPxF2VY/cyber-tools.gif" width="700"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,laravel,php,nodejs,express,python,mysql,mongodb,git,github,linux,cloudflare,docker,figma,postman&theme=dark&perline=9" />
 </p>
 
 ---
 
 <img src="https://i.ibb.co/pfJV6Bc/cyber-line.gif" width="100%"/>
 
-# 📌 2025 Missions
-- 🚀 Build modular SaaS dashboards  
-- 🧠 Automate dev & security workflows  
-- 🛡️ Master pentesting techniques  
-- 📚 Earn **CNSP Certification**  
-- 🤖 Develop personal AI security tools  
+# 🚀 Current Operations & Projects
+
+### 💼 Production Deployments
+* 💈 **Broflazz Barber Platform** — Premium automated barbershop booking & management system.
+* 🏛️ **RT-Pintar** — Neighborhood administration & local contribution tracking system.
+* 🏗️ **Apintedi Contractor Hub** — Main enterprise contractor interface.
+
+### 🛡️ Cyber Security Focus
+* Actively breaking and securing web apps through intense CTF drills.
+* Designing automated AI-driven vulnerability and trading logic checkers.
 
 ---
 
-# 🏆 Achievements
-
-- 🥇 Champion — **Local Web Dev Competition 2024**
-- 🥈 Rank 3 — **Cyber CTF Bekasi City**
-- 🎖️ CNSP Certification — *In Progress*
-
----
-
-<img src="https://i.ibb.co/pfJV6Bc/cyber-line.gif" width="100%"/>
-
-# 🚀 Featured Projects
-
-## 🌐 PetroVision — AI-Powered Petroleum Platform
-Neon dashboards ⚡ real-time insights ⚡ AI analytics ⚡  
-**Tech:** React, TailwindCSS, Express, MongoDB  
-🔗 Repo: https://github.com/Khalidd88/PetroVision  
-
----
-
-## 🤖 AI Chatbot with NLP
-Conversational AI with TensorFlow, Flask & NLP.  
-🏆 Used in **CTF Bekasi City**.
-
----
-
-<img src="https://i.ibb.co/pfJV6Bc/cyber-line.gif" width="100%"/>
-
-# 📊 Neon GitHub Stats
+# 📊 Neon Metrics
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Khalidd88&theme=neon-dark&hide_border=true" />
@@ -92,23 +60,14 @@ Conversational AI with TensorFlow, Flask & NLP.
 
 ---
 
-# 🐍 Contribution Graph — Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Khalidd88/Khalidd88/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-<img src="https://i.ibb.co/pfJV6Bc/cyber-line.gif" width="100%"/>
-
 # 🧠 Terminal Mode
+
 ```bash
 $ whoami
-> khalid — full stack developer | cyber security | neon-coded creator
+> khalid — full stack engineer | automation architect | sec-focused builder
 
 $ system status
-> 100% focus | 9999% creativity | infinite learning
+> running on high-end hardware | architecture optimized | scaling 10x
 
-$ mission
-> build, secure, automate, dominate.
-
+$ current_objective
+> build, automate, secure, scale.
