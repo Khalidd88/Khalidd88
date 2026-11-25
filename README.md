@@ -1,11 +1,11 @@
 <!-- ANIMATED CYBERPUNK HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1a0033,80:004e92,100:00d9ff&height=230&section=header&text=⚡%20KHALID%20LUHUR%20PAMBUDI%20⚡&fontSize=38&fontColor=00D9FF&animation=twinkling&fontAlignY=38&desc=Autonomous%20Full-Stack%2C%20AI%20Automation%20%26%20Security%20Engineer&descAlignY=60&descSize=17" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1a0033,80:004e92,100:00d9ff&height=230&section=header&text=KHALID%20LUHUR%20PAMBUDI&fontSize=42&fontColor=00D9FF&animation=twinkling&fontAlignY=38&desc=Autonomous%20Full-Stack%2C%20AI%20Automation%20%26%20Security%20Engineer&descAlignY=60&descSize=17" width="100%" />
 </p>
 
 <!-- ANIMATED TYPING SUBHEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=23&duration=2200&pause=600&color=00D9FF&center=true&vCenter=true&width=780&lines=⚡+Full-Stack+%26+High-Performance+Backend+Engineer;⚙️+Golang+%7C+FastAPI+%7C+Fastify+%7C+Next.js;🤖+Autonomous+AI+Agent+%26+Workflow+Architect;🐉+Web+Exploitation%2C+OSINT+%26+Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=23&duration=2200&pause=600&color=00D9FF&center=true&vCenter=true&width=780&lines=Full-Stack+%26+High-Performance+Backend+Engineer;Golang+%7C+FastAPI+%7C+Fastify+%7C+Next.js;Autonomous+AI+Agent+%26+Workflow+Architect;Web+Exploitation%2C+OSINT+%26+Security+Researcher" alt="Typing SVG" />
 </p>
 
 <!-- LIVE BADGES & COUNTER -->
@@ -20,9 +20,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-<!-- NEURAL PROFILE + FLOATING ANIMATED GIF -->
-<img align="right" width="310" src="https://i.ibb.co/HdqFQPT/cyberpunk-header.gif" alt="Cyberpunk Animation" />
-
 ## 🌌 Neural Profile
 
 🔥 **Khalid** is a high-performance engineer building scalable web infrastructure, low-latency APIs, and autonomous AI pipelines. Operating with an **AI-first** execution model to ship production-grade digital ecosystems fast.
@@ -33,8 +30,6 @@
 * 🤖 **Autonomous AI & Ops:** Multi-Agent Systems, n8n, Ollama, DeepSeek API, Bot Automation
 * 🐉 **Cyber Security:** Web Exploitation, Bug Bounty, OSINT, and CTF Challenges
 
-<br clear="right"/>
-
 <!-- ANIMATED NEON DIVIDER -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -43,7 +38,7 @@
 ## 🧠 Live Terminal Mode
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=800&color=00FF9C&background=0D1117&center=false&vCenter=false&multiline=true&repeat=true&width=780&height=165&lines=%24+whoami;>++khalid+%7C+full-stack+engineer+%7C+ai+automation+architect+%7C+sec+researcher;%24+stack+--core;>++golang%2C+fastapi%2C+fastify%2C+nextjs%2C+postgres%2C+redis%2C+docker%2C+n8n;%24+current_objective;>++build%2C+automate%2C+secure%2C+scale._" alt="Animated Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=800&color=00FF9C&background=0D1117&center=false&vCenter=false&multiline=true&repeat=true&width=780&height=165&lines=%24+whoami;%3E+khalid+%7C+full-stack+engineer+%7C+ai+automation+architect+%7C+sec+researcher;%24+stack+--core;%3E+golang%2C+fastapi%2C+fastify%2C+nextjs%2C+postgres%2C+redis%2C+docker%2C+n8n;%24+current_objective;%3E+build%2C+automate%2C+secure%2C+scale._" alt="Animated Terminal" />
 </p>
 
 <!-- ANIMATED NEON DIVIDER -->
@@ -112,5 +107,5 @@
 
 <!-- ANIMATED CYBERPUNK FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,55:004e92,100:0d1117&height=120&section=footer&text=BUILD%20•%20AUTOMATE%20•%20SECURE%20•%20SCALE&fontSize=16&fontColor=00D9FF&animation=blinking&fontAlignY=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,55:004e92,100:0d1117&height=120&section=footer&text=BUILD%20%7C%20AUTOMATE%20%7C%20SECURE%20%7C%20SCALE&fontSize=16&fontColor=00D9FF&animation=blinking&fontAlignY=70" width="100%" />
 </p>
